@@ -94,3 +94,35 @@ http://germanyqdns.com:/AaiGgpoI/pRCMNsLH/89055
 http://germanyqdns.com:/AaiGgpoI/pRCMNsLH/89056
 #EXTINF:-1 tvg-id="beIN SPORTS 1 (77)" tvg-name="beIN Sports 1 HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1250x150.png" group-title="SPOR KANALLARI",beIN Sports 1 HD
 http://abc.xoomtv.club:2052/Denizulge/fXNPyW9tkB7e/300
+#EXTINF:-1 tvg-id="---------------" tvg-name="-------------" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1250x150.png" group-title="ek_kanal",beIN Sports 1 HD
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1 (77)" tvg-name="beIN Sports 1 SD Mobil" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1250x150.png" group-title="SPOR KANALLARI",beIN Sports 1 SD Mobil
+http://abc.xoomtv.club:2052/yZQTZ0appS/CvXRHxlkCQ/13196
+#EXTINF:-1 tvg-id="beIN SPORTS 1 (77)" tvg-name="beIN Sports 1 HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1250x150.png" group-title="SPOR KANALLARI",beIN Sports 1 HD
+http://abc.xoomtv.club:2052/yZQTZ0appS/CvXRHxlkCQ/300
+#EXTINF:-1 tvg-id="beIN SPORTS 1 (77)" tvg-name="beIN Sports 1 HD+" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1250x150.png" group-title="SPOR KANALLARI",beIN Sports 1 HD+
+http://abc.xoomtv.club:2052/yZQTZ0appS/CvXRHxlkCQ/2905
+#EXTINF:-1 tvg-id="beIN SPORTS 1 (77)" tvg-name="beIN Sports 1 HD TİCARİ (Maç Saati)" tvg-logo="https://i.ibb.co/vHrFQYG/ticarixy.png" group-title="SPOR KANALLARI",beIN Sports 1 HD TİCARİ (Maç Saati)
+http://abc.xoomtv.club:2052/yZQTZ0appS/CvXRHxlkCQ/16325
+#EXTINF:-1 tvg-id="beIN SPORTS 1 (77)" tvg-name="sorunvarsa| beIN Sports 1 HD+" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1250x150.png" group-title="SPOR KANALLARI",sorunvarsa| beIN Sports 1 HD+
+http://abc.xoomtv.club:2052/yZQTZ0appS/CvXRHxlkCQ/575
+#EXTINF:-1 tvg-id="beIN SPORTS 1 (77)" tvg-name="sorunvarsa| beIN Sports 1 HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1250x150.png" group-title="SPOR KANALLARI",sorunvarsa| beIN Sports 1 HD
+http://abc.xoomtv.club:2052/yZQTZ0appS/CvXRHxlkCQ/43573
+#EXTINF:-1 tvg-id="taraftar1.tr" tvg-name="TR: beIN SPORTS 1 RAW" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.1.RAW.png" group-title="TR ✦ beIN SPORTS LIVE",TR: beIN SPORTS 1 RAW
+http://vip.smartersvip.xyz:2095/live/tolga12011/qTGQT3YGKKca/5849.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 PREMIUM" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SORTS.1.PREMIUM.png" group-title="TR ✦ beIN SPORTS LIVE",TR: beIN SPORTS 1 PREMIUM
+http://vip.smartersvip.xyz:2095/live/tolga12011/qTGQT3YGKKca/139892.ts
+#EXTINF:-1 tvg-id="taraftar1.tr" tvg-name="TR: beIN SPORTS 1 TICARI YAYIN" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.1.TICARI.png" group-title="TR ✦ beIN SPORTS LIVE",TR: beIN SPORTS 1 TICARI YAYIN
+http://vip.smartersvip.xyz:2095/live/tolga12011/qTGQT3YGKKca/5850.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN SPORTS 1 FHD" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.1.FHD.png" group-title="TR ✦ beIN SPORTS LIVE",TR: bEIN SPORTS 1 FHD
+http://vip.smartersvip.xyz:2095/live/tolga12011/qTGQT3YGKKca/159509.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 FHD - EXTRA" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.1.FHD.EXTRA.png" group-title="TR ✦ beIN SPORTS LIVE",TR: beIN SPORTS 1 FHD - EXTRA
+http://vip.smartersvip.xyz:2095/live/tolga12011/qTGQT3YGKKca/155217.ts
+#EXTINF:-1 tvg-id="taraftar1.tr" tvg-name="TR: beIN SPORTS 1 HD" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.1.HD.png" group-title="TR ✦ beIN SPORTS LIVE",TR: beIN SPORTS 1 HD
+http://vip.smartersvip.xyz:2095/live/tolga12011/qTGQT3YGKKca/5853.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 HD - EXTRA" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.1.HD.EXTRA.png" group-title="TR ✦ beIN SPORTS LIVE",TR: beIN SPORTS 1 HD - EXTRA
+http://vip.smartersvip.xyz:2095/live/tolga12011/qTGQT3YGKKca/155316.ts
+#EXTINF:-1 tvg-id="taraftar1.tr" tvg-name="TR: beIN SPORTS 1 SD" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.1.SD.png" group-title="TR ✦ beIN SPORTS LIVE",TR: beIN SPORTS 1 SD
+http://vip.smartersvip.xyz:2095/live/tolga12011/qTGQT3YGKKca/5854.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN CONNECT 1" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/CONNECT.1.png" group-title="TR ✦ beIN SPORTS LIVE",TR: bEIN CONNECT 1
+http://vip.smartersvip.xyz:2095/live/tolga12011/qTGQT3YGKKca/171876.ts
