@@ -1,5 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NULL" tvg-name="***** TURK ULUSAL *****" tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/turkulusal.png" group-title="TURK ULUSAL",***** TURK ULUSAL *****
+#EXTINF:-1,***** TURK ULUSAL *****
 http://germanyqdnsx2.com:8080/AaiGgpoI/pRCMNsLH/37501
-#EXTINF:-1 tvg-id="" tvg-name="TR:TRT 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/trt1.png" group-title="TURK ULUSAL",TR:TRT 1 HD
+#EXTINF:-1,TR:TRT 1 HD
 http://germanyqdnsx2.com:8080/AaiGgpoI/pRCMNsLH/88956
+#EXTINF:-1,TR:TRT 1 HD  [yedek]
+http://germanyqdnsx2.com:8080/AaiGgpoI/pRCMNsLH/104091
+#EXTINF:-1,TR:TRT 1 HQ
+http://germanyqdnsx2.com:8080/AaiGgpoI/pRCMNsLH/88955
+#EXTINF:-1,TR:TRT AVAZ HD
+http://germanyqdnsx2.com:8080/AaiGgpoI/pRCMNsLH/94866
+#EXTINF:-1,TR:ATV HD
