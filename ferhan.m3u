@@ -1,8 +1,8 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="" tvg-name="TR:GERMANY SPORTS 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="TURK SPOR",TR:GERMANY SPORTS 1 HD
 http://germanyservers.net1:8080/AaiGgpoI/pRCMNsLH/105874
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 1 HD (FEED)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="TURK SPOR",TR:BEINSPORTS 1 HD (FEED)
-http://germanyservers.net1:8080/AaiGgpoI/pRCMNsLH/89006
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 1 HD (RAW)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="TURK SPOR",TR:BEINSPORTS 1 HD (RAW)
+http://germanyservers1.net:8080/AaiGgpoI/pRCMNsLH/89006
 #EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="TURK SPOR",TR:BEINSPORTS 1 HD
 http://germanyservers.net1:8080/AaiGgpoI/pRCMNsLH/89004
 #EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 1 HQ (VODAFONE-TURKCELL-TURKIYE)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="TURK SPOR",TR:BEINSPORTS 1 HQ (VODAFONE-TURKCELL-TURKIYE)
@@ -17,19 +17,3 @@ http://germanyservers.net1:8080/AaiGgpoI/pRCMNsLH/89365
 http://germanyservers.net1:8080/AaiGgpoI/pRCMNsLH/112578
 #EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 1 RAW Kota Dostu [Maçta aktif]" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="TURK SPOR",TR:BEINSPORTS 1 RAW Kota Dostu [Maçta aktif]
 http://germanyservers.net1:8080/AaiGgpoI/pRCMNsLH/112577
-#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORT 1 UHD (FEED YAYIN)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exen1.png" group-title="TURK UHD",TR:EXXEN SPORT 1 UHD (FEED YAYIN)
-http://germanyservers.net1:8080/AaiGgpoI/pRCMNsLH/89832
-#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORT 1 HQ" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exen1.png" group-title="TURK SPOR",TR:EXXEN SPORT 1 HQ
-http://germanyservers.net1:8080/AaiGgpoI/pRCMNsLH/89035
-#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORT 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exen1.png" group-title="TURK SPOR",TR:EXXEN SPORT 1 HD
-http://germanyservers.net1:8080/AaiGgpoI/pRCMNsLH/89036
-#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORT 1 HD (FEED YAYIN)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exen1.png" group-title="TURK SPOR",TR:EXXEN SPORT 1 HD (FEED YAYIN)
-http://germanyservers.net1:8080/AaiGgpoI/pRCMNsLH/89831
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="SPOR KANALLARI",EXXEN Sport 1
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/48695
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN Sport 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="SPOR KANALLARI",EXXEN Sport 2 
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/73630
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="SPOR KANALLARI",EXXEN Sport 3
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/73631
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN Sport 4 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="SPOR KANALLARI",EXXEN Sport 4 
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/73632
