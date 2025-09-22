@@ -1,1 +1,23 @@
 EXTM3U
+#EXTINF:-1 tvg-id="24 TV.tr" tvg-name="beIN SPORTS 1" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1250x150.png" group-title="SPOR KANALLARI",beIN SPORTS 1
+http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/300
+#EXTINF:-1 tvg-id="24 TV.tr" tvg-name="beIN SPORTS 1 SD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1250x150.png" group-title="SPOR KANALLARI",beIN SPORTS 1 SD
+http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/13196
+#EXTINF:-1 tvg-id="24 HD.tr" tvg-name="beIN SPORTS 1 HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1250x150.png" group-title="SPOR KANALLARI",beIN SPORTS 1 HD
+http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/2905
+#EXTINF:-1 tvg-id="24 TV.tr" tvg-name="beIN SPORTS 1 HQ" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1250x150.png" group-title="SPOR KANALLARI",beIN SPORTS 1 HQ
+http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/43573
+#EXTINF:-1 tvg-id="24 TV.tr" tvg-name="beIN SPORTS 1 TİCARİ (Maç Saati)" tvg-logo="https://i.ibb.co/vHrFQYG/ticarixy.png" group-title="SPOR KANALLARI",beIN SPORTS 1 TİCARİ (Maç Saati)
+http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/16325
+#EXTINF:-1 tvg-id="24 TV.tr" tvg-name="beIN SPORTS 4K (Sadece Maclarda)" tvg-logo="https://i.ibb.co/bNGh1ZY/4kx.png" group-title="SPOR KANALLARI",beIN SPORTS 4K (Sadece Maclarda)
+http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/2927
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K (Sadece Maclarda)*" tvg-logo="" group-title="SPOR KANALLARI",beIN SPORTS 4K (Sadece Maclarda)*
+http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/73628
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 SD (Problem Olursa)" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/bein_sportsMAX_1_250x150_.png" group-title="SPOR KANALLARI",beIN SPORTS 1 SD (Problem Olursa)
+http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/77374
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD (Problem Olursa)" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/bein_sportsMAX_1_250x150_.png" group-title="SPOR KANALLARI",beIN SPORTS 1 HD (Problem Olursa)
+http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/48296
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HQ (Problem Olursa)" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/bein_sportsMAX_1_250x150_.png" group-title="SPOR KANALLARI",beIN SPORTS 1 HQ (Problem Olursa)
+http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/48295
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 TİCARİ (Maç Saati Problem Olursa)" tvg-logo="" group-title="SPOR KANALLARI",beIN SPORTS 1 TİCARİ (Maç Saati Problem Olursa)
+http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/77373
