@@ -1,24 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="TR:GERMANY SPORTS 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="TURK SPOR",TR:GERMANY SPORTS 1 HD
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/105874
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 1 HD (RAW)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="TURK SPOR",TR:BEINSPORTS 1 HD (RAW)
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/89006
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="TURK SPOR",TR:BEINSPORTS 1 HD
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/89004
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 1 HQ (VODAFONE-TURKCELL-TURKIYE)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="TURK SPOR",TR:BEINSPORTS 1 HQ (VODAFONE-TURKCELL-TURKIYE)
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/89026
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 1 SD (DUSUK KALITE)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="TURK SPOR",TR:BEINSPORTS 1 SD (DUSUK KALITE)
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/89371
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 1 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="TURK UHD",TR:BEINSPORTS 1 UHD
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/89012
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEIN CONNET 1 HD [MAC ZAMANI AKTIF]" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="TURK SPOR",TR:BEIN CONNET 1 HD [MAC ZAMANI AKTIF]
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/89365
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 1 SD RAW  [Maçta aktif]" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="TURK SPOR",TR:BEINSPORTS 1 SD RAW  [Maçta aktif]
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/112578
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 1 RAW Kota Dostu [Maçta aktif]" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="TURK SPOR",TR:BEINSPORTS 1 RAW Kota Dostu [Maçta aktif]
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/112577
 
-EXTM3U
 #EXTINF:-1 tvg-id="24 TV.tr" tvg-name="beIN SPORTS 1" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1250x150.png" group-title="SPOR KANALLARI",beIN SPORTS 1
 http://obern.normaniy.xyz:2052/Dayi.tic.densin/gFLwGVxNWnjg/300
 #EXTINF:-1 tvg-id="24 TV.tr" tvg-name="beIN SPORTS 1 SD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1250x150.png" group-title="SPOR KANALLARI",beIN SPORTS 1 SD
@@ -42,73 +23,4 @@ http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/48295
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 TİCARİ (Maç Saati Problem Olursa)" tvg-logo="" group-title="SPOR KANALLARI",beIN SPORTS 1 TİCARİ (Maç Saati Problem Olursa)
 http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/77373
 
-
-EXTM3U
-#EXTINF:-1 tvg-id="S SPORT" tvg-name="S SPORT" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="SPOR KANALLARI",S SPORT
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/13194
-#EXTINF:-1 tvg-id="S SPORT" tvg-name="S SPORT HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="SPOR KANALLARI",S SPORT HD
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/32039
-#EXTINF:-1 tvg-id="S SPORT" tvg-name="S SPORT HQ" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="SPOR KANALLARI",S SPORT HQ
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/292
-#EXTINF:-1 tvg-id="S SPORT" tvg-name="S SPORT SD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="SPOR KANALLARI",S SPORT SD
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/66565
-#EXTINF:-1 tvg-id="S SPORT 2" tvg-name="S SPORT 2" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="SPOR KANALLARI",S SPORT 2
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/7826
-#EXTINF:-1 tvg-id="S SPORT 2" tvg-name="S SPORT 2 HD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="SPOR KANALLARI",S SPORT 2 HD
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/32537
-#EXTINF:-1 tvg-id="S SPORT 2" tvg-name="S SPORT 2 HQ" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="SPOR KANALLARI",S SPORT 2 HQ
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/34049
-#EXTINF:-1 tvg-id="S SPORT 2" tvg-name="S SPORT 2 SD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="SPOR KANALLARI",S SPORT 2 SD
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/66566
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS YAYIN AKISI" tvg-logo="" group-title="SPOR KANALLARI",S SPORT PLUS YAYIN AKISI
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/81791
-#EXTINF:-1 tvg-id="" tvg-name="S Sport Plus 1 (Maç Saati Çalışır)" tvg-logo="https://i.ibb.co/5hfm8T3/ssport.png" group-title="SPOR KANALLARI",S Sport Plus 1 (Maç Saati Çalışır)
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/48266
-#EXTINF:-1 tvg-id="+1" tvg-name="S Sport Plus 1 HQ (Maç Saati Çalışır)" tvg-logo="https://i.ibb.co/5hfm8T3/ssport.png" group-title="SPOR KANALLARI",S Sport Plus 1 HQ (Maç Saati Çalışır)
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/48270
-#EXTINF:-1 tvg-id="+1" tvg-name="S Sport Plus 1 HD (Maç Saati Çalışır)" tvg-logo="https://i.ibb.co/5hfm8T3/ssport.png" group-title="SPOR KANALLARI",S Sport Plus 1 HD (Maç Saati Çalışır)
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/65542
-#EXTINF:-1 tvg-id="+2" tvg-name="S Sport Plus 2 (Maç Saati Çalışır)" tvg-logo="https://i.ibb.co/5hfm8T3/ssport.png" group-title="SPOR KANALLARI",S Sport Plus 2 (Maç Saati Çalışır)
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/48271
-#EXTINF:-1 tvg-id="+3" tvg-name="S Sport Plus 3 (Maç Saati Çalışır)" tvg-logo="https://i.ibb.co/5hfm8T3/ssport.png" group-title="SPOR KANALLARI",S Sport Plus 3 (Maç Saati Çalışır)
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/48272
-#EXTINF:-1 tvg-id="+4" tvg-name="S Sport Plus 4 (Maç Saati Çalışır)" tvg-logo="https://i.ibb.co/5hfm8T3/ssport.png" group-title="SPOR KANALLARI",S Sport Plus 4 (Maç Saati Çalışır)
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/48273
-#EXTINF:-1 tvg-id="+5" tvg-name="S Sport Plus 5 (Maç Saati Çalışır)" tvg-logo="https://i.ibb.co/5hfm8T3/ssport.png" group-title="SPOR KANALLARI",S Sport Plus 5 (Maç Saati Çalışır)
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/48267
-#EXTINF:-1 tvg-id="" tvg-name="S Sport Plus 6 (Maç Saati Çalışır)" tvg-logo="https://i.ibb.co/5hfm8T3/ssport.png" group-title="SPOR KANALLARI",S Sport Plus 6 (Maç Saati Çalışır)
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/48268
-#EXTINF:-1 tvg-id="" tvg-name="S Sport Plus 7 HD (Maç Saati Çalışır)" tvg-logo="" group-title="SPOR KANALLARI",S Sport Plus 7 HD (Maç Saati Çalışır)
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/86857
-#EXTINF:-1 tvg-id="" tvg-name="S Sport Plus 8 HD (Maç Saati Çalışır)  " tvg-logo="https://i.ibb.co/5hfm8T3/ssport.png" group-title="SPOR KANALLARI",S Sport Plus 8 HD (Maç Saati Çalışır)  
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/86858
-#EXTINF:-1 tvg-id="" tvg-name="TiViBu Spor HD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20221230862759.png" group-title="SPOR KANALLARI",TiViBu Spor HD
-http://obern.normaniy.xyz:2052/Dayi.dennis/gFLwGVxNWnjg/291
-#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORTS 1 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="Türk UHD",TR:S SPORTS 1 UHD
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/d4c26f5e-08aa-4852-8800-df2f500b3242.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORTS 2 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="Türk UHD",TR:S SPORTS 2 UHD
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/bd3e5285-f4bc-4b01-8a6e-abcb1e4d30f9.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORTS 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="Türk Spor",TR:S SPORTS 1 HD
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/0896e65d-ad90-48ff-a8f1-50a3865d784e.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORTS 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="Türk Spor",TR:S SPORTS 2 HD
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/f0b5441a-2eca-4807-acfa-4dc23706f50c.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 1 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport1.png" group-title="Türk Spor",TR:S SPORT PLUS 1 UHD (MAC ZAMANI)
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/7fb9da4c-48c1-48be-971c-41bcb3c8ba9f.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 2 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport2.png" group-title="Türk Spor",TR:S SPORT PLUS 2 UHD (MAC ZAMANI)
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/50c9a0cc-4edb-4f52-a38f-5cfeffef8125.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 3 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport3.png" group-title="Türk Spor",TR:S SPORT PLUS 3 UHD (MAC ZAMANI)
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/37dc607b-7cda-4f2f-86f3-422c95dda8b3.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 4 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport4.png" group-title="Türk Spor",TR:S SPORT PLUS 4 UHD (MAC ZAMANI)
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/0887e6ac-b020-45e9-899a-b5e7fc58b3d1.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 5 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport5.png" group-title="Türk Spor",TR:S SPORT PLUS 5 UHD (MAC ZAMANI)
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/2f72ec8e-9d04-492c-ae0a-2c841e6f4e3b.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 6 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport6.png" group-title="Türk Spor",TR:S SPORT PLUS 6 UHD (MAC ZAMANI)
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/b1d6c1ae-a0b3-4fc4-857b-e01d403c7477.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 7 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport7.png" group-title="Türk Spor",TR:S SPORT PLUS 7 UHD (MAC ZAMANI)
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/7e9119f8-6928-4bba-94fa-4b6bc91aac4f.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 8 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport8.png" group-title="Türk Spor",TR:S SPORT PLUS 8 UHD (MAC ZAMANI)
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/5effc911-d7e0-441f-aa05-48322ee321b6.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 9 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport9.png" group-title="Türk Spor",TR:S SPORT PLUS 9 UHD (MAC ZAMANI)
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/536c881a-4510-416f-989a-b43764cda777.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 10 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport10.png" group-title="Türk Spor",TR:S SPORT PLUS 10 UHD (MAC ZAMANI)
-http://germanyservers3.net/live/AaiGgpoI/pRCMNsLH/5007306f-b802-45e6-a8d0-73bec4c68d62.ts
+/
